@@ -1,0 +1,9 @@
+streamlit_custom_component.egg-info/
+.idea
+venv/
+__pycache__/
+node_modules/
+build/
+.env
+domain.crt
+domain.key
